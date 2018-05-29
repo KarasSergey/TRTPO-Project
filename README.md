@@ -50,7 +50,7 @@
 
 <a name="user_requirements"/>
 
-#2 Требования пользователя
+# 2 Требования пользователя
 
 <a name="software_interfaces"/>
 
